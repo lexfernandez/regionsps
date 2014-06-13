@@ -40,5 +40,5 @@ Regionsps::Application.configure do
     "Villanueva", "La Ceiba", "La Lima", "El Progreso",
      "Santa Rosa", "Olanchito", "Satélite"]
 
-  config.aws_access_key_id = 'AKIAIYHTSYTB5T2WGENA'
+  #config.aws_access_key_id = 'AKIAIYHTSYTB5T2WGENA'
 end
